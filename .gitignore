@@ -1,0 +1,56 @@
+#################################
+# Ignore build output and temp #
+#################################
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+ipch/
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.exp
+*.idb
+
+# VS-generated folders
+.vs/
+*.VC.db
+*.VC.opendb
+
+# Project-specific
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.cache
+*.log
+
+# CMake (if used)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# SFML example: ignore SFML dynamic libs if copied
+sfml-*.dll
+sfml-*.lib
+sfml-*.exp
+sfml-*.pdb
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Others
+*.tlog
+*.lastbuildstate
+*.intermediate
+*.ipdb
+*.iobj
+*.tmp
+*.log
+*.rsp
