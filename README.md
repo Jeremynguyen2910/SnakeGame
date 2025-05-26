@@ -38,6 +38,6 @@
 
 ---
 
-## 📸 Video demo (tuỳ chọn)
+## 📸 Video demo
 
 https://drive.google.com/file/d/1ma8y778uWTxi4o6PHcRCdGXAXohnFxQ8/view?usp=sharing
