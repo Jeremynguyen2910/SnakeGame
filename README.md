@@ -4,22 +4,6 @@
 
 ---
 
-## 🎮 Gameplay
-
-- Người chơi điều khiển con rắn di chuyển trên màn hình.
-- Mỗi khi ăn mồi, rắn sẽ dài ra.
-- Trò chơi kết thúc nếu rắn va vào tường hoặc chính nó.
-
----
-
-## 🧰 Công nghệ sử dụng
-
-- **Ngôn ngữ:** C++
-- **Thư viện:** [SFML 3.0](https://www.sfml-dev.org/)
-- **IDE:** Visual Studio 2022
-
----
-
 ## 🚀 Cách chạy game
 
 ### 1. Cài đặt SFML
